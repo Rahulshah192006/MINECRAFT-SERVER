@@ -1,0 +1,11 @@
+--2022-06-25 18:28:15--  http://www.mc-download.com/index.php?action=downloadfile
+Resolving www.mc-download.com (www.mc-download.com)... 77.81.247.161
+Connecting to www.mc-download.com (www.mc-download.com)|77.81.247.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [application/octet-stream]
+Saving to: ‘index.php?action=downloadfile’
+
+index.php?action=downloadfile                            [<=>                                                                                                                   ]       0  --.-KB/s               index.php?action=downloadfile                            [ <=>                                                                                                                  ]       0  --.-KB/s    in 0s      
+
+2022-06-25 18:28:16 (0.00 B/s) - ‘index.php?action=downloadfile’ saved [0/0]
+
